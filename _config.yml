@@ -2,7 +2,7 @@
 title: Federico Madotto Photography Portfolio
 email: ""
 description: "Federico Madotto Photography Portfolio"
-url: "http://photos.federicomadotto.com/"
+url: "https://photos.federicomadotto.com/"
 baseurl: "/"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://photos.federicomadotto.com/gallery/"  
-  - JOURNAL: "http://photos.federicomadotto.com/journal/"
-  - ABOUT: "http://photos.federicomadotto.com/about/"
+  - GALLERY: "https://photos.federicomadotto.com/gallery/"  
+  - JOURNAL: "https://photos.federicomadotto.com/journal/"
+  - ABOUT: "https://photos.federicomadotto.com/about/"
 
 # All translation keys
 translations:
