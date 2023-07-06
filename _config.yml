@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://fmadotto.github.io/photos/gallery/"  
-  - JOURNAL: "https://fmadotto.github.io/photos/journal/"
-  - ABOUT: "https://fmadotto.github.io/photos/about/"
+  - GALLERY: "http://photos.federicomadotto.com/gallery/"  
+  - JOURNAL: "http://photos.federicomadotto.com/journal/"
+  - ABOUT: "http://photos.federicomadotto.com/about/"
 
 # All translation keys
 translations:
