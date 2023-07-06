@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Federico Madotto Photography Portfolio
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Federico Madotto Photography Portfolio"
+url: "https://fmadotto.github.io"
+baseurl: "/photos"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Federico Madotto
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
